@@ -12,8 +12,20 @@ Autodesk Maya 2025 • Python • PySide6 • Qt Designer • Adobe Photoshop
 The goal of this project is to create a modular quadruped auto-rigging tool for Autodesk Maya. It automates repetitive rigging tasks while generating organized, animator-friendly control systems that can be adapted to a variety of creature characters. 🐸
 
 # Planned Features: 
-• 
-•
+• Modular quadruped skeleton generation
+•  Joint placement and orientation tools
+•  FK/IK limb systems
+•  FK/IK switching
+•  Spine rig generation
+•  Neck and head rigging
+•  Tail rigging
+•  Paw and foot controls
+•  Stretch and squash systems
+•  Animator-friendly control generation
+•  Automated rig hierarchy setup
+•  Mirroring utilities
+•  Rig validation tools
+•  PySide6 user interface
 
 # Documentation
 Documentation includes
