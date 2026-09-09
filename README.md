@@ -3,7 +3,7 @@
 </p>
 
 # Riggit 
-A Maya-based biped auto-rigging tool designed to streamline character rig creation and setup.
+A Maya-based biped auto-rigging tool designed to assist with creature character rig creation and setup.
 
 # Software Used
 Autodesk Maya 2025 • Python • PySide6 • Qt Designer • Adobe Photoshop
