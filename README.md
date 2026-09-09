@@ -25,7 +25,6 @@ The goal of this project is to create a modular quadruped auto-rigging tool for 
 •  Automated rig hierarchy setup
 •  Mirroring utilities
 •  Rig validation tools
-•  PySide6 user interface
 
 # Documentation
 Documentation includes
