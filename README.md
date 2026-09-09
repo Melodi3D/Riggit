@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Riggit.png" width="250" alt="Riggit Logo">
+</p>
 # Riggit
 A Maya-based biped auto-rigging tool designed to streamline character rig creation and setup.
 
