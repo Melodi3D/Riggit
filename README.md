@@ -9,7 +9,7 @@ A Maya-based biped auto-rigging tool designed to assist with creature character 
 Autodesk Maya 2025 • Python • PySide6 • Qt Designer • Adobe Photoshop
 
 # Goals
-The goal of this project is to create a modular quadreped auto-rigging tool for Autodesk Maya. It automates repetitive rigging tasks while generating organized, animator-friendly control systems that can be adapted to a variety of creature characters. 🐸
+The goal of this project is to create a modular quadruped auto-rigging tool for Autodesk Maya. It automates repetitive rigging tasks while generating organized, animator-friendly control systems that can be adapted to a variety of creature characters. 🐸
 
 # Planned Features: 
 • 
